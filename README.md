@@ -8,8 +8,8 @@ Students walk around a pixel-art version of campus, meet familiar characters, an
 
 <p align="center">
   <a href="https://ngnsysx.github.io/phuongmaigame/"><b>▶ Play the game</b></a> &nbsp;·&nbsp;
-  <a href="reports/final-report.pdf"><b>📄 Final report</b></a> &nbsp;·&nbsp;
-  <a href="reports/presentation-slides.pdf"><b>📊 Presentation slides</b></a>
+  <a href="reports/final-report.pdf"><b>Final report</b></a> &nbsp;·&nbsp;
+  <a href="reports/presentation-slides.pdf"><b>Presentation slides</b></a>
 </p>
 
 ---
@@ -143,8 +143,8 @@ Across two public test rounds shortly after release:
 
 ### Documents
 
-- 📄 [Final report (PDF)](reports/final-report.pdf): the full user research, A/B test design, MVP scope, iterations, and data analysis
-- 📊 [Presentation slides (PDF)](reports/presentation-slides.pdf): the final product presentation
+- [Final report (PDF)](reports/final-report.pdf): the full user research, A/B test design, MVP scope, iterations, and data analysis
+- [Presentation slides (PDF)](reports/presentation-slides.pdf): the final product presentation
 
 ## Repository Structure
 
